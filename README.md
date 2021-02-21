@@ -9,12 +9,11 @@ It has 3️⃣ separate pages!
 Enjoy!😉 
 
 ![screen11](https://user-images.githubusercontent.com/78708473/108611417-9b5c2600-7408-11eb-878a-d5b8d360794f.png)
-![screen22](https://user-images.githubusercontent.com/78708473/108611437-b5960400-7408-11eb-807e-c2077ec5cd00.png)
+![screen44](https://user-images.githubusercontent.com/78708473/108611620-6f41a480-740a-11eb-8385-d522154abf92.png)
 ![screen33](https://user-images.githubusercontent.com/78708473/108611442-bc247b80-7408-11eb-91b7-757e7434c7e1.png)
 
 
+![screencapture-file-Users-nazerkekulan-Downloads-responsive-portfolio-website-JhonDoe-master-index-html-2021-02-21-06_04_06](https://user-images.githubusercontent.com/78708473/108611644-b465d680-740a-11eb-802a-a9c7ebc9ca47.png)
 
-
-![screen](https://user-images.githubusercontent.com/78708473/108611039-ae6cf700-7404-11eb-86f1-4d2b0fa45668.png)
 
 
