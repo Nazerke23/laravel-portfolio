@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\DB;
 
 use App\Models\Client;
+use App\Models\Post;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -47,4 +48,17 @@ Route::get('client/add', function () {
 Route::get('client', function () {
     $client = Client::find(1);
     return $client->name;
+});
+
+Route::get('post/create', function () {
+    DB::table('posts')->insert([
+        'title' => 'Howau',
+        'body' => 'Remind yourself how much you have to learn.'
+    ]);
+});
+
+
+Route::get('post', function () {
+    $client = Post::find(1);
+    return " TITLE: " . $client->title . " <br> BODY IS :" .$client->body;
 });
