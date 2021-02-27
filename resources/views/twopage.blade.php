@@ -31,7 +31,9 @@
                     <div>
                         <h2 class="about__subtitle">I'am Nazerke Kulan</h2>
                         <span class="about__profession">Sophomore student</span>
-                        <p class="about__text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci consectetur, architecto quas fugiat, iste inventore facere repellendus delectus id, vitae blanditiis.</p>
+                         <p class="about__text">I am 18 now, and currently studying at SDU. 
+                        My major is Computer Science. To be honest I still didn't decide who exactly I want to become...
+                    But I really enjoy learning CS</p>
 
                         <div class="about__social">
                             <a href="#" class="about__social-icon"><i class='bx bxl-linkedin' ></i></a>
