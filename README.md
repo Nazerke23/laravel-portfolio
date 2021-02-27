@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 #NazerkeKulan🧚🏻‍♀️
-=======
+
 I am sorry, Teacher. It is like proof that before I had all of this commits, I also finished all my work on time.
 <img width="1419" alt="пруф" src="https://user-images.githubusercontent.com/78708473/109393252-cd124700-794a-11eb-9589-db2d4ee303eb.png">
 
 
->>>>>>> d88164b7ad63a88a2af16f66e1b774fea25b4cef
 This is my first project on GitHub❤️
 I am Nazerke Kulan✌🏻👩🏻‍💻
 My id number is 190103223👽
@@ -20,15 +18,4 @@ Enjoy!😉
 ![screen33](https://user-images.githubusercontent.com/78708473/108611442-bc247b80-7408-11eb-91b7-757e7434c7e1.png)
 
 
-<<<<<<< HEAD
 ![screencapture-file-Users-nazerkekulan-Downloads-responsive-portfolio-website-JhonDoe-master-index-html-2021-02-21-06_04_06](https://user-images.githubusercontent.com/78708473/108611644-b465d680-740a-11eb-802a-a9c7ebc9ca47.png)
-
-
-
-=======
-
-![screencapture-file-Users-nazerkekulan-Downloads-responsive-portfolio-website-JhonDoe-master-index-html-2021-02-21-06_04_06](https://user-images.githubusercontent.com/78708473/108611644-b465d680-740a-11eb-802a-a9c7ebc9ca47.png)
->>>>>>> d88164b7ad63a88a2af16f66e1b774fea25b4cef
-
-
-TIDITI
