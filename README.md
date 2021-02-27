@@ -1,9 +1,5 @@
 #NazerkeKulan🧚🏻‍♀️
 
-I am sorry, Teacher. It is like proof that before I had all of this commits, I also finished all my work on time.
-<img width="1419" alt="пруф" src="https://user-images.githubusercontent.com/78708473/109393252-cd124700-794a-11eb-9589-db2d4ee303eb.png">
-
-
 This is my first project on GitHub❤️
 I am Nazerke Kulan✌🏻👩🏻‍💻
 My id number is 190103223👽
