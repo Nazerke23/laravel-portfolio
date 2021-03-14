@@ -7,6 +7,8 @@ use App\Models\Client;
 use App\Models\Post;
 
 use App\Http\Controllers\ClientController;
+use App\Http\Controllers\BlogController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -76,8 +78,4 @@ Route::get('post/create', function () {
     ]);
 });
 
-
-Route::get('post', function () {
-    $client = Post::find(1);
-    return " TITLE: " . $client->title . " <br> BODY IS :" .$client->body;
-});
+Route::get('post', [BlogController::class, 'index']);
