@@ -21,6 +21,6 @@ class ClientController extends Controller
             'age' => $request->age
         ]);
 
-        return back();
+        return back(); // last view opened
     }
 }

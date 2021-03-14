@@ -71,7 +71,7 @@ Route::post('client/create', [ClientController::class, 'store'])->name('add-clie
 
 
 
-Route::get('post/create', function () {
+Route::get('post/createBefore', function () {
     DB::table('posts')->insert([
         'title' => 'Howau',
         'body' => 'Remind yourself how much you have to learn.'
@@ -79,3 +79,9 @@ Route::get('post/create', function () {
 });
 
 Route::get('post', [BlogController::class, 'index']);
+
+Route::get('post/create', function(){
+    return view('post.create');
+});
+
+Route::post('post/create', [BlogController::class, 'store'])->name('add-post');
