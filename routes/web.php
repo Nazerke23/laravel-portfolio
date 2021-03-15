@@ -88,3 +88,6 @@ Route::post('post/create', [BlogController::class, 'store'])->name('add-post');
 
 
 Route::get('client/{id}', [ClientController::class, 'get_client']);
+
+
+Route::get('post/{id}', [BlogController::class, 'get_post']);

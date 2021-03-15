@@ -6,7 +6,7 @@ use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\WithFaker;
 use Tests\TestCase;
 
-class ClientTest extends TestCase
+class PostTest extends TestCase
 {
     /**
      * A basic feature test example.
@@ -20,26 +20,28 @@ class ClientTest extends TestCase
         $response->assertStatus(200);
     }
 
-    // public function test_client_id_get_request(){
-    //     $response = $this->get('/client/1');
+    // public function test_post_id_get_request(){
+    //     $response = $this->get('/post/1');
 
     //     $response->assertStatus(200);
     // }
 
-    public function test_client_id_get_request(){
-        $response = $this->get('/client/1');
+    public function test_post_id_get_request(){
+        $response = $this->get('/post/1');
         $response->assertStatus(200);
     }
 
-    public function test_get_unexisted_client(){
-        $response = $this->get('/client/100000');
+
+
+    public function test_get_unexisted_post(){
+        $response = $this->get('/post/100000');
 
         $response->assertStatus(404);
     }
 
-    public function test_client_response(){
-        $response = $this->get('/client/1');
 
-        $response->assertViewHas('client');
+    public function test_post_response(){
+        $response = $this->get('/post/1');
+        $response->assertViewHas('post');
     }
 }
