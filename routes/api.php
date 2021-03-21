@@ -20,6 +20,12 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::get('/clients', [ApiController::class, 'index']);
+// Route::get('/clients', [ApiController::class, 'index']);
 
-Route::post('/clients/details', [ ApiController::class, 'get_client']);
+// Route::post('/clients/details', [ ApiController::class, 'get_client']);
+
+
+
+Route::get('/posts', [ApiController::class, 'index']);
+
+Route::post('/posts/details', [ ApiController::class, 'get_post']);
